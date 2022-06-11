@@ -15,3 +15,7 @@ That way, all images created by Terraform and containers running them will be cl
 ```shell
 terraform destroy --auto-approve
 ```
+
+# How to test
+
+After successfuly run `terraform apply --auto-approve` open localhost:80 on your browser to see (Hello world)[content/index.html].
