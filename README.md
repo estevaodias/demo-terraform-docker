@@ -18,4 +18,4 @@ terraform destroy --auto-approve
 
 # How to test
 
-After successfuly run `terraform apply --auto-approve` open localhost:80 on your browser to see (Hello world)[content/index.html].
+After successfully run `terraform apply --auto-approve`, open [localhost:80](http://localhost:80) on your browser to see [Hello world](content/index.html).
